@@ -1,3 +1,12 @@
+# TUGAS 6 REACT JS
+
+# Tujuan :
+
+- Memahami cara penggunaan CSS.
+- Memahami cara installasi Routing.
+- Memahami cara penerapan Routing.
+- Memahami cara penggunaan Navigasi Routing.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
